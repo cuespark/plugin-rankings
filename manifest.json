@@ -13,5 +13,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-rankings/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-rankings/releases/download/v0.1.0-alpha.7/plugin-rankings.zip",
-  "sha256": "7fc6041899748abd65deae1cb5a74890a7f496e4341627a8bbdd55949061fa40"
+  "sha256": "e95ed2da2593faa00797cac6b706b09c2d17fbaeda33fe96fff7b26770f382ac"
 }
