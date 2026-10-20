@@ -10,8 +10,8 @@
     "bot",
     "twitch"
   ],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-rankings/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-rankings/releases/download/v0.1.0-alpha.7/plugin-rankings.zip",
-  "sha256": "d5962c1674165d1054f53ff871a755b03f044aa9de6488add2963d51b939d4c6"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-rankings/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-rankings/releases/download/v0.1.0-alpha.7/plugin-rankings.zip",
+  "sha256": "61e61b02613d52db46f960c1345d59708a44520ed7b7ecd38330e47cec8e9ff1"
 }
